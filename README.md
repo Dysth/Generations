@@ -8,6 +8,7 @@ When submitting issues via the [issues tab](https://github.com/Deltric/Generatio
 1. What is the bug?
 2. What are the steps to reproduce the bug?
 3. What version of Pixelmon and Forge are you on?
+4. Please provide any screenshots or crash reports if needed.
 
 
 ## Suggestions Format:
