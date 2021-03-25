@@ -12,4 +12,4 @@ jobs:
         with:
           project: Main Project
           column: Suggestions
-          repo-token: ${{ secrets.MY_TOKEN }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
